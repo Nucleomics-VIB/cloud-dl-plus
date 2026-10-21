@@ -2,7 +2,7 @@
 
 version="1.7.3"
 
-# source: https://github.com/Nucleomics-VIB/NC_cloud-dl
+# source: https://github.com/Nucleomics-VIB/cloud-dl-plus
 # forked and edited from: https://github.com/cghdev/cloud-dl
 # requires:
 # GNU coreutils (basename, date, numfmt)
